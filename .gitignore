@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.pyc
+.env
+node_modules/
+dist/
+.terraform/
+*.tfstate
